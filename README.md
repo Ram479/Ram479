@@ -8,3 +8,5 @@
 - Performance: Code splitting, lazy loading, memoization, virtualization, progressive rendering
 - Systems & Backend Collaboration: REST APIs, NodeJS, Express.js, Java microservices, API contracts, caching strategies, distributed dashboards
 - Tools: Docker, Postman, Figma, Jira, Git, Kibana
+
+- LinkedIn: https://www.linkedin.com/in/ramkrishna-sahoo-4b6054170
